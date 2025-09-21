@@ -2,3 +2,7 @@
 last_change = 2025-09-21T05:24:15.327185Z
 name = "gcc_va_list"
 type = "__va_list_tag[1]"
+
+[my_int]
+name = "my_int"
+type = "int"
