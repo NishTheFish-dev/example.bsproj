@@ -1,0 +1,4 @@
+[gcc_va_list]
+last_change = 2025-10-11T15:42:58.061521Z
+name = "gcc_va_list"
+type = "__va_list_tag[1]"
