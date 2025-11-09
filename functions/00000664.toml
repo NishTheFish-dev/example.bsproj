@@ -1,0 +1,11 @@
+last_change = 2024-03-09T19:26:48.690883Z
+addr = 0x664
+size = 0x89
+name = "authenticate"
+
+[header]
+last_change = 2024-03-09T19:26:48.691117Z
+name = "authenticate"
+addr = 0x664
+
+[header.args]
