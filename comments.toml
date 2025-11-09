@@ -15,3 +15,9 @@ addr = 0x76f
 func_addr = 0x71d
 comment = "<--- password is read here\n"
 decompiled = true
+
+[0x72c]
+addr = 0x72c
+func_addr = 0x71d
+comment = "\n\nHello! 这是一条示例消息 Test Message."
+decompiled = true
