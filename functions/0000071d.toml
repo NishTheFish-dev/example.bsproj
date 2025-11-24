@@ -34,11 +34,13 @@ addr = 0x71d
 [header.args.0x0]
 offset = 0x0
 name = "my_arg1"
+type = "int"
 size = 0x4
 
 [header.args.0x1]
 offset = 0x1
 name = "my_arg2"
+type = "const char **"
 size = 0x8
 
 [header.args.0x2]
