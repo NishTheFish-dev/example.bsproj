@@ -1,12 +1,12 @@
 last_change = 2025-11-09T16:37:25.823704Z
 addr = 0x71d
 size = 0xb8
-name = "pascal_main"
+name = "mahaloz_main"
 type = "char"
 
 [header]
 last_change = 2024-10-05T01:50:49.344733Z
-name = "pascal_main"
+name = "mahaloz_main"
 addr = 0x71d
 type = "char"
 
